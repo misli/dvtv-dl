@@ -1,0 +1,13 @@
+*.egg-info
+*.pyc
+*.pyo
+*.swp
+*~
+/.coverage
+/.git
+/.idea
+/.ipython
+/.tox
+/build
+/dist
+/env
